@@ -1,0 +1,2 @@
+filter.c:10:6:InitLPFilterObject	0	static
+filter.c:16:7:LP_Filter	0	static

@@ -1,0 +1,14 @@
+spi.c:77:6:MX_SPI1_Init	8	static
+spi.c:99:6:MX_SPI3_Init	8	static
+spi.c:121:6:HAL_SPI_MspInit	48	static
+spi.c:188:6:HAL_SPI_MspDeInit	8	static
+spi.c:236:10:SPI_receive	16	static
+spi.c:255:6:SPI_rFastPrepare	24	static
+spi.c:269:6:SPI_lFastPrepare	8	static
+spi.c:280:6:SPI_rSlowPrepare	24	static
+spi.c:300:6:SPI_lSlowPrepare	24	static
+spi.c:333:10:SPI_commRegister	16	static
+spi.c:323:6:SPI_commRegisterTrue	8	static
+spi.c:350:6:SPI_write16	16	static
+spi.c:365:6:SPI_write24	16	static
+spi.c:386:10:SPI_dataRead	16	static
